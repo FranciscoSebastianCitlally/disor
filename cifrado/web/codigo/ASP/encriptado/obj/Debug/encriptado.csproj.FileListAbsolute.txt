@@ -1,0 +1,38 @@
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\ApplicationInsights.config
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\encriptado.dll.config
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\encriptado.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\encriptado.pdb
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.Web.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.ApplicationInsights.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.Web.xml
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\bin\Microsoft.ApplicationInsights.xml
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\obj\Debug\encriptado.csprojResolveAssemblyReference.cache
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\obj\Debug\encriptado.dll
+C:\Users\citlallyFranseb\Documents\escuela tec\9semestre\DSOU\c#\Framework\encriptado\encriptado\obj\Debug\encriptado.pdb
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\ApplicationInsights.config
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\encriptado.dll.config
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\encriptado.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\encriptado.pdb
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.Web.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.ApplicationInsights.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.Web.xml
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\bin\Microsoft.ApplicationInsights.xml
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\obj\Debug\encriptado.csprojResolveAssemblyReference.cache
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\obj\Debug\encriptado.dll
+C:\Users\citlallyFranseb\Documents\escuelatec\9semestre\DSOU\disor\cifrado\web\codigo\encriptado\encriptado\obj\Debug\encriptado.pdb
